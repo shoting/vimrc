@@ -25,3 +25,9 @@
 [submodule "bundle/DoxygenTookit"]
 	path = bundle/DoxygenTookit
 	url = https://github.com/vim-scripts/DoxygenToolkit.vim.git
+[submodule "bundle/gocode"]
+	path = bundle/gocode
+	url = https://github.com/golangtw/gocode.vim.git
+[submodule "bundle/go.vim"]
+	path = bundle/go.vim
+	url = https://github.com/golangtw/go.vim.git

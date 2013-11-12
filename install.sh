@@ -1,4 +1,4 @@
-t clone http://github.com/username/dotvim.git ~/.vim
+git clone https://github.com/shoting/vimrc.git  ~/.vim
 ln -s ~/.vim/vimrc ~/.vimrc
 ln -s ~/.vim/gvimrc ~/.gvimrc
 cd ~/.vim
