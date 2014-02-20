@@ -31,3 +31,6 @@
 [submodule "bundle/go.vim"]
 	path = bundle/go.vim
 	url = https://github.com/golangtw/go.vim.git
+[submodule "bundle/jedi-vim"]
+	path = bundle/jedi-vim
+	url = https://github.com/davidhalter/jedi-vim
